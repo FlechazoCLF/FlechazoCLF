@@ -36,3 +36,7 @@ https://g.csdnimg.cn/static/logo/favicon32.ico" width="50" /></a>
 <h3> 💮 正在做的事情 </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flechazoclf&repo=CCOS)](https://github.com/anuraghazra/github-readme-stats)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flechazoclf&repo=CCTools)
+
+<h3> 🍳 支持一下吧 </h3>
+
+<img align="center" alt="" src="https://raw.githubusercontent.com/FlechazoCLF/FlechazoCLF/refs/heads/master/static/image/wechat.png" width="200"/>
