@@ -1,6 +1,6 @@
 <h2> 🚃Hi! I'm flechazo. <img src="https://avatars.githubusercontent.com/u/109460983" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FlechazoCLF/FlechazoCLF/refs/heads/master/static/image/image1.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About flechazo </h3>
 
@@ -35,7 +35,7 @@ https://g.csdnimg.cn/static/logo/favicon32.ico" width="50" /></a>
 
 <h3> 💮 Doing </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flechazoclf&repo=CCOS)](https://github.com/anuraghazra/github-readme-stats)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flechazoclf&repo=CCTools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flechazoclf&repo=CCOS)](https://github.com/FlechazoCLF/CCOS)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Flechazoclf&repo=CCTools)](https://github.com/FlechazoCLF/CCTools)
 
 <h3> 🍳 Doante to me </h3>
 
